@@ -1,5 +1,7 @@
 I didn't write this code the auther stopped working on it so I am trying to make an app with it.
 
+I think I got it working although there is still a lot of non-critical errors you can submit issues
+
 
 authors words"
 There are some changes compared to the last app store version as I was working on an update (most significantly, I added the possibility to configure alert sounds for received data) and I believe this update was pretty much done - but again, I'm not sure. The commit history has been removed for privacy reasons.
