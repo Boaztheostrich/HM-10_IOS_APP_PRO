@@ -1,6 +1,7 @@
-# Bluetooth Serial Pro
-This is the pro version of [HM10 Bluetooth Serial](https://github.com/hoiberg/HM10-BluetoothSerial-iOS). As I have quit iOS development and there was still some demand for this app, I decided to upload the code to GitHub. It is written in Swift 5.0 or 5.1 I believe but I don't know whether it will still compile or run. 
+I didn't write this code the auther stopped working on it so I am trying to make an app with it.
 
+
+authors words"
 There are some changes compared to the last app store version as I was working on an update (most significantly, I added the possibility to configure alert sounds for received data) and I believe this update was pretty much done - but again, I'm not sure. The commit history has been removed for privacy reasons.
 
 ## App Store Description
@@ -48,4 +49,4 @@ A full tutorial on how to use the HM10 is available on hangar42.nl
 
 Note: This is not an official JNHuaMao app.
 With icons by icons8.com
-```
+```"
